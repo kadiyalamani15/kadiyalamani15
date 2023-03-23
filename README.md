@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**kadiyalamani15/kadiyalamani15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Manish Chandra Kadiyala, a passionate and creative software engineer based in [Hyderabad, India](https://goo.gl/maps/zjjbjXkmJMTUSPPQ8). 
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ManaBazaar Web App](https://github.com/kadiyalamani15/manabazaar-webapp/blob/main/README.md)
+
+## 🌱 I’m currently learning
+
+- [ReactJS](https://react.dev)
+- [React-Native](https://reactnative.dev)
+- Data Structures & Algorithms
+
+## 📫 How to reach me
+
+- LinkedIn: [Manish Chandra Kadiyala](http://linkedin.com/in/kadiyalamani15/)
+
+## ⚡ Fun fact
+
+I love to travel and explore new cultures.
