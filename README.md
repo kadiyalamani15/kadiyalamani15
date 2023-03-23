@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Manish Chandra Kadiyala, a passionate and creative software engineer based in [Hyderabad, India](https://goo.gl/maps/zjjbjXkmJMTUSPPQ8). 
+I'm Manish Chandra Kadiyala, a civil engineer turned computer scientist based in [Hyderabad, India](https://goo.gl/maps/zjjbjXkmJMTUSPPQ8). My mission is to leverage technology to revolutionize healthcare, protect the environment, and improve agriculture. I strive to combine my technical skills with my passion for social impact to build innovative products that create a lasting difference in communities worldwide. 
 
 ## 🔭 I’m currently working on
 
