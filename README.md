@@ -1,16 +1,20 @@
 # Hi there! 👋
 
-I'm Manish Chandra Kadiyala, a civil engineer turned computer scientist based in [Hyderabad, India](https://goo.gl/maps/zjjbjXkmJMTUSPPQ8). My mission is to leverage technology to revolutionize healthcare, protect the environment, and improve agriculture. I strive to combine my technical skills with my passion for social impact to build innovative products that create a lasting difference in communities worldwide. 
+I'm Manish Chandra Kadiyala, a Civil Engineer turned Product Developer, currently pursuing my Master's in Product Development at Northeastern University, Boston. With experience at TCS, I'm now diving deep into the realms of Product Development, Computer Vision, and Object-Oriented Design with Java.
 
 ## 🔭 I’m currently working on
 
-- [ManaBazaar Web App](https://github.com/kadiyalamani15/manabazaar-webapp/blob/main/README.md)
+- Developing my skills in Computer Vision (EECE) and Concepts of Object-Oriented Design (Java) as part of my second semester at Northeastern University.
 
 ## 🌱 I’m currently learning
 
-- [ReactJS](https://react.dev)
-- [React-Native](https://reactnative.dev)
-- Data Structures & Algorithms
+- Advanced aspects of [ReactJS](https://react.dev) and [React-Native](https://reactnative.dev) to enhance my frontend development skills.
+- Deep diving into Data Structures & Algorithms to sharpen my problem-solving capabilities in the realm of software engineering.
+
+## ✈️ Interests
+
+- I'm passionate about photography, badminton, snowboarding, crochet, and playing the MIDI keyboard. These hobbies not only enrich my life but also fuel my creativity and innovation in my professional work.
+- Traveling and exploring new cultures remain one of my favorite pursuits, allowing me to understand diverse perspectives and integrate them into my mission for social impact.
 
 ## 📫 How to reach me
 
@@ -18,4 +22,5 @@ I'm Manish Chandra Kadiyala, a civil engineer turned computer scientist based in
 
 ## ⚡ Fun fact
 
-I love to travel and explore new cultures.
+- Beyond my technical interests, I find immense joy in photography and music, believing that art and technology together can create transformative experiences for communities around the world.
+
