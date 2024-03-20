@@ -4,7 +4,7 @@ I'm Manish Chandra Kadiyala, a Civil Engineer turned Product Developer, currentl
 
 ## 🔭 I’m currently working on
 
-- Developing my skills in Computer Vision (EECE) and Concepts of Object-Oriented Design (Java) as part of my second semester at Northeastern University.
+- Developing my skills in Computer Vision and Concepts of Object-Oriented Design (Java) as part of my second semester at Northeastern University.
 
 ## 🌱 I’m currently learning
 
