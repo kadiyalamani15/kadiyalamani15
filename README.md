@@ -24,36 +24,6 @@ Technical specifications, user stories, and API-ready requirements that bridge b
 
 ---
 
-## Featured Projects
-
-### Job Application Automation Pipeline
-A fully automated job application engine that reads job descriptions, performs gap analysis against a candidate profile, generates tailored resumes and cover letters as PDFs, and tracks applications across a session. Built with Python, Claude API, FPDF, and a structured data pipeline.
-
-`Python` `Claude API` `FPDF` `data pipeline` `agentic workflow`
-
----
-
-### AI Job Search Agent — Product Analytics and Roadmap
-End-to-end product study for an AI career platform: PRDs and Figma wireframes for 5 agent features, 500K+ Kaggle job posting records analyzed for backlog prioritization, and 4 launch-and-learn iteration cycles. Modeled the full PM lifecycle from ideation through usability testing.
-
-`Claude API` `Python` `SQL` `Figma` `product analytics` `Kaggle`
-
----
-
-### B2B Customer Success Analytics Platform
-AI-powered analytics on 100K+ IT support ticket records for simulated B2B post-sales scenarios. Generated account intelligence insights, defined ARR retention OKRs, and produced feature prioritization recommendations for omnichannel support workflows.
-
-`Claude API` `Python` `SQL` `B2B SaaS` `product analytics`
-
----
-
-### Commercial Insurance IT Project Framework
-Full project delivery simulation: MS Project + SharePoint documentation (charter, risk log, communication plan), Planview portfolio tracking, and SDLC/PMLC compliance mapping against 100K+ NAIC commercial claims records.
-
-`Python` `SQL` `MS Project` `Planview` `SharePoint` `SDLC`
-
----
-
 ## Skills
 
 | Area | Tools and Concepts |
