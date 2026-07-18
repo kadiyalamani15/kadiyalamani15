@@ -5,9 +5,9 @@ MS Product Development, Northeastern University &nbsp;|&nbsp; CSPO, Scrum Allian
 
 ---
 
-I build AI-powered products and use AI as the primary tool to do it — not as a novelty, but as the actual way I think, analyze, spec, and ship faster. My background spans product lifecycle ownership at MBTA (1M+ daily riders), deploying LLM-powered agentic workflows in production, and writing PRDs that engineering teams can build from without clarification.
+AI Product Manager building at the intersection of language, data, and real-world deployment. Technically fluent enough to build — product-minded enough to know what's worth building. Shipped a WhatsApp-based AI service on GCP using Vertex AI, built executive dashboards at the MBTA driving decisions across 270M annual trips, and automated enterprise data pipelines at 10TB+ scale at TCS. MS in Product Development, Northeastern University.
 
-Currently focused on AI agent products, agentic workflow automation, and product analytics.
+Currently focused on AI agent products, agentic workflow automation, and technical product management.
 
 ---
 
@@ -28,27 +28,27 @@ Technical specifications, user stories, and API-ready requirements that bridge b
 
 | Area | Tools and Concepts |
 |---|---|
-| AI / LLMs | Claude API, LLMs, agentic workflows, prompt engineering, autonomous agents |
-| Product | PRDs, user stories, product roadmap, backlog prioritization, usability testing |
-| Analytics | SQL, Python, Splunk, KPI frameworks, funnel analytics |
-| Design | Figma, prototyping, wireframes |
-| Delivery | Jira, Confluence, Agile, SAFe, CSPO, sprint planning |
+| AI / Data | Vertex AI, GCP, LLM Integration, Agentic Systems, LangGraph, LiteLLM, Groq, LangFuse, Claude API, PySpark, SQL, Python, Splunk, Data Pipelines |
+| Product | Product Strategy, Roadmapping, Feature Prioritization, 0-to-1 Development, Go-to-Market, A/B Testing, KPI Frameworks, User Research, Technical PM |
+| Analytics | SQL, Python, PySpark, Splunk, funnel analytics, PostHog, Google Analytics |
+| Tools | Jira, Confluence, Figma, Notion, ServiceNow, Asana, Excel/Sheets |
+| Delivery | Agile, SAFe, CSPO, sprint planning, Stakeholder Management |
 
 ---
 
 ## Background
 
-- **AI Product Builder** — Solvantis AI Inc (2026 - present)
+- **AI Product Manager** — Solvantis AI (2026 - present)
 - **Product Analyst** — Massachusetts Bay Transportation Authority (2024 - 2025)
-- **Business Analyst** — SEPL (2022 - 2024)
-- **Assistant Systems Engineer** — Tata Consultancy Services (2021 - 2022)
-- **Co-Founder** — Terra (2020 - 2021)
+- **Business Analyst** — SEPL (2022 - 2023)
+- **Systems Analyst** — Tata Consultancy Services (2021 - 2022)
+- **Product & Strategy Lead** — Terra (2020 - 2021)
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/manish-kadiyala) &nbsp;|&nbsp; kadiyala.mani@icloud.com
+[LinkedIn](https://linkedin.com/in/manish-kadiyala) &nbsp;|&nbsp; [manishkadiyala.com](https://manishkadiyala.com)
 
 
 ## 💻 Tech Stack:
