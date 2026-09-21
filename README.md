@@ -5,7 +5,7 @@ MS Product Development, Northeastern University &nbsp;|&nbsp; CSPO, Scrum Allian
 
 ---
 
-AI Product Manager building at the intersection of language, data, and real-world deployment. Technically fluent enough to build — product-minded enough to know what's worth building. Shipped a WhatsApp-based AI service on GCP using Vertex AI, built executive dashboards at the MBTA driving decisions across 270M annual trips, and automated enterprise data pipelines at 10TB+ scale at TCS. MS in Product Development, Northeastern University.
+AI Product Manager building at the intersection of language, data, and real-world deployment. Technically fluent enough to build — product-minded enough to know what's worth building. Currently owning GenAI, RAG, and agent product capabilities end to end at Fifth Third Bank; previously drove the KPI framework and executive dashboards at the MBTA across 270M annual trips, and six years of requirements, process, and data analysis at Fidelity Investments and Optum.
 
 Currently focused on AI agent products, agentic workflow automation, and technical product management.
 
@@ -14,13 +14,13 @@ Currently focused on AI agent products, agentic workflow automation, and technic
 ## What I Build
 
 **AI Agents and Agentic Workflows**  
-Production deployments using Claude API, LangChain-adjacent patterns, and Python — automating operational workflows, generating structured product insights, and running multi-step reasoning pipelines.
+Production deployments using Claude API, LangGraph, LiteLLM, and Python — automating operational workflows, generating structured product insights, and running multi-step reasoning pipelines with evaluation harnesses and Langfuse observability.
 
 **Product Analytics Pipelines**  
 End-to-end data pipelines from raw public datasets (Kaggle, BTS, NAIC, CMS) through to product dashboards and prioritized backlogs — SQL, Python, Splunk, and LLM-assisted synthesis.
 
 **Product Specs and PRDs**  
-Technical specifications, user stories, and API-ready requirements that bridge business needs and engineering delivery. Written for complex backend systems and AI-enabled product features.
+Technical specifications, user stories, acceptance criteria, and API-ready requirements that bridge business needs and engineering delivery. Written for complex backend systems and AI-enabled product features in regulated environments.
 
 ---
 
@@ -28,9 +28,10 @@ Technical specifications, user stories, and API-ready requirements that bridge b
 
 | Area | Tools and Concepts |
 |---|---|
-| AI / Data | Vertex AI, GCP, LLM Integration, Agentic Systems, LangGraph, LiteLLM, Groq, LangFuse, Claude API, PySpark, SQL, Python, Splunk, Data Pipelines |
-| Product | Product Strategy, Roadmapping, Feature Prioritization, 0-to-1 Development, Go-to-Market, A/B Testing, KPI Frameworks, User Research, Technical PM |
-| Analytics | SQL, Python, PySpark, Splunk, funnel analytics, PostHog, Google Analytics |
+| AI / Data | Generative AI, LLMs, RAG, AI Agents, NLP, Prompt Workflows, Embeddings, Vector Search, Model Evaluation, Human-in-the-Loop, Vertex AI, GCP, LangGraph, LiteLLM, Groq, Langfuse, Claude API, PySpark, SQL, Python, Splunk, Data Pipelines |
+| Product | Product Strategy, Roadmapping, Feature Prioritization, Backlog Ownership, 0-to-1 Development, Go-to-Market, A/B Testing, KPI Frameworks, User Research, Technical PM |
+| Business Analysis | BRD, FRD, PRD, User Stories, Epics, Acceptance Criteria, Use Cases, Process Modeling, Gap & Impact Analysis, RTM, UAT Coordination |
+| Analytics | SQL, Python, PySpark, Splunk, Power BI, Tableau, funnel analytics, PostHog, Google Analytics |
 | Tools | Jira, Confluence, Figma, Notion, ServiceNow, Asana, Excel/Sheets |
 | Delivery | Agile, SAFe, CSPO, sprint planning, Stakeholder Management |
 
@@ -38,17 +39,16 @@ Technical specifications, user stories, and API-ready requirements that bridge b
 
 ## Background
 
-- **AI Product Manager** — Solvantis AI (2026 - present)
+- **AI Product Manager** — Fifth Third Bank (2026 - present)
 - **Product Analyst** — Massachusetts Bay Transportation Authority (2024 - 2025)
-- **Business Analyst** — SEPL (2022 - 2023)
-- **Systems Analyst** — Tata Consultancy Services (2021 - 2022)
-- **Product & Strategy Lead** — Terra (2020 - 2021)
+- **Business Analyst** — Fidelity Investments (2021 - 2023)
+- **Business Analyst** — Optum India (2019 - 2021)
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/manish-kadiyala) &nbsp;|&nbsp; [manishkadiyala.com](https://manishkadiyala.com)
+[LinkedIn](https://www.linkedin.com/in/mk-pm/) &nbsp;|&nbsp; [manishkadiyala.com](https://manishkadiyala.com)
 
 
 ## 💻 Tech Stack:
